@@ -8,5 +8,6 @@ console.log(chalk.blue(sh.randomSuperhero()));
 
 const time = new Date();
 
-const parsedTime = moment(time).format('h:mm:ss');
+const parsedTime = moment(time).format('hh:mm:ss');
 
+console.log(chalk.red(parsedTime));

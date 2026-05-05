@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "chalk": "^2.4.2",
+    "cli-color": "^2.0.4",
     "moment": "^2.30.1",
+    "nodemon": "^3.1.14",
     "superheroes": "^4.0.0"
   },
   "name": "superheroes",
